@@ -1,0 +1,2 @@
+[global.databases]
+simple_web = { url = "mysql://username:password@ip:port/simple_web?charset=utf8mb4&parseTime=True&loc=Local" }
